@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top{
+    padding: 10px;
+    background-color: #555;
+}
+#counter {
+    margin: 0 10px;
+    display: inline-block;
+    font-size: 24px;
+    letter-spacing: 1.5px;
+    color: #fff;
+    vertical-align: middle;
+}
+#counterBtn{
+    margin: 0 10px;
+    padding: 0 10px;
+    display: inline-block;
+    vertical-align: middle;
+}
+#puzzleOuter{
+    margin: 30px auto;
+    border: #555 1px solid;
+    display: block;
+}
